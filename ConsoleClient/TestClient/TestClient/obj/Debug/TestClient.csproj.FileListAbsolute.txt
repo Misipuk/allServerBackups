@@ -1,0 +1,11 @@
+D:\sem6_protocols\TestClient\TestClient\bin\Debug\TestClient.exe.config
+D:\sem6_protocols\TestClient\TestClient\bin\Debug\TestClient.exe
+D:\sem6_protocols\TestClient\TestClient\bin\Debug\TestClient.pdb
+D:\sem6_protocols\TestClient\TestClient\bin\Debug\Newtonsoft.Json.dll
+D:\sem6_protocols\TestClient\TestClient\bin\Debug\Newtonsoft.Json.pdb
+D:\sem6_protocols\TestClient\TestClient\bin\Debug\Newtonsoft.Json.xml
+D:\sem6_protocols\TestClient\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+D:\sem6_protocols\TestClient\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+D:\sem6_protocols\TestClient\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+D:\sem6_protocols\TestClient\TestClient\obj\Debug\TestClient.exe
+D:\sem6_protocols\TestClient\TestClient\obj\Debug\TestClient.pdb
